@@ -56,8 +56,6 @@ Design a machine learning model that can automatically **identify and classify f
   * Feature importance
   * Fault prediction results for sample input
 
-*(Insert output graph or confusion matrix image here)*
-
 ---
 
 ## 🧾 Conclusion
